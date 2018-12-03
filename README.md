@@ -1,2 +1,2 @@
 # Resize
-Resizes a jpg image to any desired extent
+Resizes a bitmap image to any desired extent
